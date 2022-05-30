@@ -1,5 +1,5 @@
-# graphDOS
 DETERMINING DEGREES OF SEPARATION IN NETWORKS
+
 Six degrees of separation is a concept which states that all human beings are six or fewer social connections away from each other. In other words, any inhabitant of the Earth could meet anyone in the world with a maximum of six or fewer mutual connections between them and another person, be it through acquaintances, friends, or members of their family. The idea is popular in random networks, as Watts and Strogatz showed that the average path length between two nodes in a random network is equal to (ln N / ln K), where N = total nodes and K = acquaintances per node. 
 For example, if N = 6,000,000,000 (90% of the World population) and K = 30 then Degrees of Separation = 22.5 / 3.4 = 6.6. 
 
